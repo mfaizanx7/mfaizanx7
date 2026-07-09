@@ -1,103 +1,230 @@
-# Hi there, I'm Muhammad Faizan Khan 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Muhammad Faizan Khan
 
-## Full-Stack Web Developer  
+## Full-Stack Web Developer
+
 ### Laravel • PHP • React • Node.js • MySQL • REST APIs
 
-I build production-ready web applications from database to deployment.
+> Building **production-ready web applications** from database design to deployment.
 
-I am a Full-Stack Web Developer with hands-on experience building CMS platforms, REST APIs, admin panels, business applications, and backend-driven web systems using Laravel, PHP, React.js, Node.js, MySQL, and SQL Server.
+I'm a Full-Stack Web Developer with hands-on experience developing production-ready business applications using **Laravel, PHP, React.js, Node.js, MySQL, and SQL Server**.
 
-My work focuses on clean architecture, maintainable code, database-driven applications, authentication systems, and reliable production deployments.
-
----
-
-## 🛠️ Technical Capabilities
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Backend Engineering</h4>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <br><br>
-      <code>REST APIs</code> • <code>MVC Architecture</code> • <code>Eloquent ORM</code> • <code>Laravel Sanctum</code> • <code>JWT Authentication</code> • <code>RBAC</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Frontend Development</h4>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <br><br>
-      <code>HTML5</code> • <code>CSS3</code> • <code>Bootstrap</code> • <code>Responsive Web Design</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Data Layer</h4>
-      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <br><br>
-      <code>Stored Procedures</code> • <code>Query Optimization</code> • <code>Database Design</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Tools & Deployment</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
-      <br><br>
-      <code>VS Code</code> • <code>Composer</code> • <code>npm</code> • <code>Linux</code> • <code>cPanel</code> • <code>DNS</code> • <code>SSL</code>
-    </td>
-  </tr>
-</table>
+I enjoy building scalable backend systems, custom CMS platforms, REST APIs, business applications, and clean database architectures while following modern software engineering practices.
 
 ---
 
-## 🚀 Selected Client Projects
+# 🛠 Tech Stack
 
-### 🌐 Creative IT Park Website
-Corporate website rebuilt from Laravel to a modern React.js and Node.js stack, featuring a custom admin panel, contact workflow, and production deployment.
-* **Tech:** `Laravel` `React.js` `Node.js` `MySQL` `PHP`
+## Backend
 
-### 🏆 OD Sports Website & CMS
-Production CMS for a live Laravel application, introducing editorial workflows, scheduled publishing, and media management without disrupting existing functionality.
-* **Tech:** `Laravel` `PHP` `MySQL` `Blade` `Bootstrap`
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🚪 Perfect Doors Website & CMS
-Product management platform with a normalized database architecture, custom CMS, product variants, categories, and dynamic product content management.
-* **Tech:** `Laravel` `PHP` `MySQL` `Blade` `Bootstrap`
+**Specialized in**
 
-### 📈 PomPak Financial Literacy Platform
-Supported backend development for a national financial literacy platform using Laravel and SQL Server, including backend improvements, bug fixes, and feature enhancements.
-* **Tech:** `Laravel` `PHP` `SQL Server` `Git`
-
----
-
-## 🎯 Current Focus
-
-- Building production-ready web applications
-- Developing Laravel, PHP, React.js, and Node.js projects
-- Improving REST API design and backend architecture
-- Strengthening database design and deployment practices
-- Writing clean, maintainable, and reliable code
+- REST APIs
+- MVC Architecture
+- Eloquent ORM
+- Authentication & Authorization
+- Laravel Sanctum
+- JWT Authentication
+- RBAC
 
 ---
 
-## 🤝 Connect
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Experienced with**
+
+- HTML5
+- CSS3
+- Bootstrap
+- Responsive Web Design
+
+---
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Focus Areas**
+
+- Database Design
+- Query Optimization
+- Stored Procedures
+
+---
+
+## DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+Additional tools:
+
+`Linux` • `Composer` • `npm` • `cPanel` • `DNS` • `SSL`
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Creative IT Park Website
+
+Production-ready corporate website rebuilt from Laravel to a modern React.js and Node.js architecture with a custom CMS and production deployment.
+
+**Tech**
+
+`Laravel` `React.js` `Node.js` `MySQL`
+
+**Repository**
+
+➡️ https://github.com/mfaizanx7/creative-it-park-website
+
+---
+
+## 🏆 OD Sports Website & CMS
+
+Production CMS platform featuring editorial workflows, media management, and centralized administration for a live Laravel application.
+
+**Tech**
+
+`Laravel` `PHP` `MySQL`
+
+**Repository**
+
+➡️ https://github.com/mfaizanx7/od-sports-cms
+
+---
+
+## 🚪 Perfect Doors Website & CMS
+
+Business platform with a normalized database architecture supporting product variants, categories, and scalable catalog management.
+
+**Tech**
+
+`Laravel` `PHP` `MySQL`
+
+**Repository**
+
+➡️ https://github.com/mfaizanx7/perfect-doors-cms
+
+---
+
+## 📈 PomPak Financial Literacy Platform
+
+Backend development support for a national financial literacy platform using Laravel and SQL Server.
+
+**Tech**
+
+`Laravel` `PHP` `SQL Server`
+
+**Repository**
+
+➡️ https://github.com/mfaizanx7/pompak-showcase
+---
+
+# 🎯 Current Focus
+
+I'm currently focused on strengthening my software engineering skills by building production-ready web applications and improving my expertise in backend architecture, scalable database design, and modern development workflows.
+
+Current areas of focus include:
+
+- 🚀 Building scalable Laravel & Node.js applications
+- 🔗 Designing secure REST APIs
+- 🗄️ Database modeling & query optimization
+- 🏗️ Custom CMS & business management platforms
+- 🐳 Docker-based development workflows
+- ⚙️ Production deployments & server configuration
+- 📚 Continuous learning through real-world client projects
+
+---
+
+# 📂 Repository Highlights
+
+These repositories demonstrate different aspects of my engineering experience.
+
+| Repository | Primary Focus |
+|------------|---------------|
+| 🌐 Creative IT Park | Production Deployment • React Migration • Custom CMS |
+| 🏆 OD Sports | Editorial CMS • Media Management • Existing Codebase |
+| 🚪 Perfect Doors | Database Design • Product Variants • Business Platform |
+| 📈 PomPak | Enterprise Development • SQL Server • Production Support |
+| 📊 Reachfy | Business Management • Client Operations |
+| 🏢 Thrive Enterprise Portal | RBAC • Enterprise Workflow • Administration |
+
+---
+
+# 💡 Engineering Philosophy
+
+I enjoy solving practical business problems through software.
+
+My approach to development focuses on:
+
+- Writing clean, maintainable code
+- Designing scalable database structures
+- Following framework conventions
+- Building reusable components
+- Delivering production-ready solutions
+- Continuously improving through real-world development
+
+---
+
+# 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:mfaizanx10@gmail.com"><img src="https://img.shields.io/badge/Email-mfaizanx10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-faizan-khan-x7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faizan_Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://faizans-portfolio.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-View_Portfolio-4A154B?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/mfaizanx7" target="blank"><img src="https://img.shields.io/badge/GitHub-mfaizanx7-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+<a href="mailto:mfaizanx10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-x7/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faizan_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://faizans-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mfaizanx7">
+<img src="https://img.shields.io/badge/GitHub-mfaizanx7-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-*Open to Full-Stack Web Developer, Software Developer, Laravel Developer, PHP Developer, and Backend Developer opportunities.*
+# 💼 Open to Opportunities
+
+I am currently open to opportunities in:
+
+- Full-Stack Web Development
+- Backend Development
+- Laravel Development
+- PHP Development
+- Software Engineering
+
+If you're working on an interesting product or looking for someone who enjoys building reliable, production-ready web applications, I'd be happy to connect.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+*"Building software that is clean, maintainable, and ready for production."*
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
