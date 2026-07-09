@@ -1,83 +1,116 @@
-# Muhammad Faizan Khan
+# Hi there, I'm Muhammad Faizan Khan 👋
 
-## Backend Developer | Laravel • PHP • MySQL
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mfaizanx7&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+</p>
 
-I am a Backend Developer focused on building clean, reliable, and maintainable web applications using Laravel, PHP, MySQL, Node.js, and React.js.
+## Full-Stack Web Developer  
+### Laravel • PHP • React • Node.js • MySQL • REST APIs
 
-My work includes client and in-house web applications, CMS solutions, REST APIs, admin panels, database-driven modules, production fixes, and deployment-related tasks.
+I build production-ready web applications from database to deployment.
 
----
+I am a Full-Stack Web Developer with hands-on experience building CMS platforms, REST APIs, admin panels, business applications, and backend-driven web systems using Laravel, PHP, React.js, Node.js, MySQL, and SQL Server.
 
-## Tech Stack
-
-**Backend:** Laravel, PHP, Node.js, Express.js, REST APIs  
-**Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap  
-**Databases:** MySQL, SQL Server, PostgreSQL, MongoDB  
-**Tools & Deployment:** Git, GitHub, Docker, Linux, cPanel, DNS, SSL  
-**Core Concepts:** OOP, DBMS, SDLC, Data Structures & Algorithms, Problem Solving  
+My work focuses on clean architecture, maintainable code, database-driven applications, authentication systems, and reliable production deployments.
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Capabilities
 
-### [Creative IT Park Website](https://github.com/mfaizanx7/creative-it-park-website)
-Official company website rebuilt from Laravel to React.js with a custom CMS and admin panel for content management.
-
-**Tech:** React.js, Node.js, Express.js, MySQL
-
----
-
-### [Thrive Enterprise Portal](https://github.com/mfaizanx7/thrive-enterprise-portal)
-Enterprise Resource Planning system with role-based access control for HR, administration, and program management.
-
-**Tech:** Laravel / React.js, MySQL, RBAC
-
----
-
-### [Worknex Chat App](https://github.com/mfaizanx7/worknex-chat-app)
-Real-time chat and collaboration platform with secure messaging and team communication features.
-
-**Tech:** React.js, Node.js, JavaScript
-
----
-
-### [ODSports CMS](https://github.com/mfaizanx7/od-sports-cms)
-Custom CMS built with Laravel and MySQL for managing sports events, content, and administrative operations.
-
-**Tech:** Laravel, PHP, MySQL
-
----
-
-### [Reachfy Web App](https://github.com/mfaizanx7/reachfy-web-app)
-Business management web application built with Laravel and MySQL for managing clients, workflows, and administrative tasks.
-
-**Tech:** Laravel, PHP, MySQL
-
----
-
-### [Perfect Doors CMS](https://github.com/mfaizanx7/perfect-doors-cms)
-Company website and custom CMS built with Laravel for managing furniture products, categories, and website content.
-
-**Tech:** Laravel, PHP, MySQL
-
----
-
-## Current Focus
-
-- Building production-ready Laravel applications
-- Improving backend architecture and API design
-- Strengthening MySQL and SQL Server database skills
-- Writing cleaner and more maintainable code
-- Improving GitHub, portfolio, and professional project documentation
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Backend Engineering</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <br><br>
+      <code>REST APIs</code> • <code>MVC Architecture</code> • <code>Eloquent ORM</code> • <code>Laravel Sanctum</code> • <code>JWT Authentication</code> • <code>RBAC</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend Development</h4>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <br><br>
+      <code>HTML5</code> • <code>CSS3</code> • <code>Bootstrap</code> • <code>Responsive Web Design</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Data Layer</h4>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <br><br>
+      <code>Stored Procedures</code> • <code>Query Optimization</code> • <code>Database Design</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Tools & Deployment</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+      <br><br>
+      <code>VS Code</code> • <code>Composer</code> • <code>npm</code> • <code>Linux</code> • <code>cPanel</code> • <code>DNS</code> • <code>SSL</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Connect
+## 🚀 Selected Client Projects
 
-**Email:** mfaizanx10@gmail.com  
-**LinkedIn:** [Muhammad Faizan Khan](https://www.linkedin.com/in/muhammad-faizan-khan-x7/)  
-**GitHub:** [mfaizanx7](https://github.com/mfaizanx7)
+### 🌐 Creative IT Park Website
+Corporate website rebuilt from Laravel to a modern React.js and Node.js stack, featuring a custom admin panel, contact workflow, and production deployment.
+* **Tech:** `Laravel` `React.js` `Node.js` `MySQL` `PHP`
+
+### 🏆 OD Sports Website & CMS
+Production CMS for a live Laravel application, introducing editorial workflows, scheduled publishing, and media management without disrupting existing functionality.
+* **Tech:** `Laravel` `PHP` `MySQL` `Blade` `Bootstrap`
+
+### 🚪 Perfect Doors Website & CMS
+Product management platform with a normalized database architecture, custom CMS, product variants, categories, and dynamic product content management.
+* **Tech:** `Laravel` `PHP` `MySQL` `Blade` `Bootstrap`
+
+### 📈 PomPak Financial Literacy Platform
+Supported backend development for a national financial literacy platform using Laravel and SQL Server, including backend improvements, bug fixes, and feature enhancements.
+* **Tech:** `Laravel` `PHP` `SQL Server` `Git`
 
 ---
 
-Open to junior backend developer, Laravel developer, and full-stack web developer opportunities.
+## 📊 Git Activity Overview
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mfaizanx7&show_icons=true&theme=radial&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizanx7&layout=compact&theme=radial&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready web applications
+- Developing Laravel, PHP, React.js, and Node.js projects
+- Improving REST API design and backend architecture
+- Strengthening database design and deployment practices
+- Writing clean, maintainable, and reliable code
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="mailto:mfaizanx10@gmail.com"><img src="https://img.shields.io/badge/Email-mfaizanx10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-faizan-khan-x7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faizan_Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://faizans-portfolio.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-View_Portfolio-4A154B?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/mfaizanx7" target="blank"><img src="https://img.shields.io/badge/GitHub-mfaizanx7-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+*Open to Full-Stack Web Developer, Software Developer, Laravel Developer, PHP Developer, and Backend Developer opportunities.*
