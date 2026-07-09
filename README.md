@@ -1,9 +1,5 @@
 # Hi there, I'm Muhammad Faizan Khan 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mfaizanx7&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
-</p>
-
 ## Full-Stack Web Developer  
 ### Laravel • PHP • React • Node.js • MySQL • REST APIs
 
@@ -80,15 +76,6 @@ Product management platform with a normalized database architecture, custom CMS,
 ### 📈 PomPak Financial Literacy Platform
 Supported backend development for a national financial literacy platform using Laravel and SQL Server, including backend improvements, bug fixes, and feature enhancements.
 * **Tech:** `Laravel` `PHP` `SQL Server` `Git`
-
----
-
-## 📊 Git Activity Overview
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mfaizanx7&show_icons=true&theme=radial&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mfaizanx7&layout=compact&theme=radial&hide_border=true" />
-</p>
 
 ---
 
