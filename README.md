@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Muhammad Faizan Khan
 
-## Full-Stack Web Developer
+## Software Engineer
 
 ### Laravel • PHP • React • Node.js • MySQL • REST APIs
 
