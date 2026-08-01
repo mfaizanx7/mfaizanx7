@@ -6,7 +6,7 @@
 
 > Building **production-ready web applications** from database design to deployment.
 
-I'm a Full-Stack Web Developer with hands-on experience developing production-ready business applications using **Laravel, PHP, React.js, Node.js, MySQL, and SQL Server**.
+I'm a Software Engineer with hands-on experience developing production-ready business applications using **Laravel, PHP, React.js, Node.js, MySQL, and SQL Server**.
 
 I enjoy building scalable backend systems, custom CMS platforms, REST APIs, business applications, and clean database architectures while following modern software engineering practices.
 
