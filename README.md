@@ -209,11 +209,12 @@ My approach to development focuses on:
 
 I am currently open to opportunities in:
 
+- Software Engineering
 - Full-Stack Web Development
 - Backend Development
 - Laravel Development
 - PHP Development
-- Software Engineering
+
 
 If you're working on an interesting product or looking for someone who enjoys building reliable, production-ready web applications, I'd be happy to connect.
 
