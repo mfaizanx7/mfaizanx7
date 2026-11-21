@@ -1,231 +1,130 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Muhammad Faizan Khan
 
-## Software Engineer
+# Muhammad Faizan Khan
 
-### Laravel • PHP • React • Node.js • MySQL • REST APIs
+### AI & Machine Learning | Intelligent Software Engineering
 
-> Building **production-ready web applications** from database design to deployment.
+Computer Science undergraduate at **Air University, Islamabad**, focused on developing intelligent software systems that combine machine learning, deep learning, and modern application engineering.
 
-I'm a Software Engineer with hands-on experience developing production-ready business applications using **Laravel, PHP, React.js, Node.js, MySQL, and SQL Server**.
-
-I enjoy building scalable backend systems, custom CMS platforms, REST APIs, business applications, and clean database architectures while following modern software engineering practices.
+My interests include **Natural Language Processing, Large Language Models, Agentic AI, and applied machine learning research**. I work across the development lifecycle, from data processing and model experimentation to backend integration and end-to-end application development.
 
 ---
 
-# 🛠 Tech Stack
+## Technical Expertise
 
-## Backend
+### Artificial Intelligence & Machine Learning
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**Core Areas**
+- Supervised Learning, Classification & Predictive Modeling
+- Neural Networks, Deep Learning & Sequence Models
+- Natural Language Processing & Text Classification
+- Large Language Models (LLMs) & Prompt Engineering
+- Agentic AI, Tool Integration & Multi-Agent Workflows
+- Model Evaluation, Experimentation & Error Analysis
 
-**Specialized in**
+**Technologies**
 
-- REST APIs
-- MVC Architecture
-- Eloquent ORM
-- Authentication & Authorization
-- Laravel Sanctum
-- JWT Authentication
-- RBAC
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
+### AI Application & Backend Engineering
 
-## Frontend
+- Python-based application development and AI model integration
+- RESTful API development and service integration
+- LLM-powered application workflows
+- Backend architecture, authentication and data management
+- Connecting intelligent models with web and mobile interfaces
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**Technologies**
 
-**Experienced with**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-- HTML5
-- CSS3
-- Bootstrap
-- Responsive Web Design
+### Full Stack & Data Engineering
 
----
+- React-based user interfaces and application integration
+- JavaScript and TypeScript development
+- Relational database design and SQL
+- Data preprocessing, feature preparation and analysis
+- Full-stack application architecture
 
-## Databases
+**Technologies**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Focus Areas**
+### Development Tools
 
-- Database Design
-- Query Optimization
-- Stored Procedures
-
----
-
-## DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-Additional tools:
-
-`Linux` • `Composer` • `npm` • `cPanel` • `DNS` • `SSL`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## Research & Technical Interests
 
-## 🌐 Creative IT Park Website
+**Machine Learning & Deep Learning**
 
-Production-ready corporate website rebuilt from Laravel to a modern React.js and Node.js architecture with a custom CMS and production deployment.
+Model development, neural network architectures, classification, evaluation, and improving generalization.
 
-**Tech**
+**Natural Language Processing & LLMs**
 
-`Laravel` `React.js` `Node.js` `MySQL`
+Language understanding, text classification, LLM integration, and adapting language models for practical applications.
 
-**Repository**
+**Agentic AI & Intelligent Systems**
 
-➡️ https://github.com/mfaizanx7/creative-it-park-website
+Autonomous agents, multi-agent coordination, tool-augmented reasoning, and intelligent workflow orchestration.
 
----
+**Applied AI & Software Engineering**
 
-## 🏆 OD Sports Website & CMS
-
-Production CMS platform featuring editorial workflows, media management, and centralized administration for a live Laravel application.
-
-**Tech**
-
-`Laravel` `PHP` `MySQL`
-
-**Repository**
-
-➡️ https://github.com/mfaizanx7/od-sports-cms
+Building reliable, end-to-end intelligent applications by integrating machine learning capabilities with scalable software architectures.
 
 ---
 
-## 🚪 Perfect Doors Website & CMS
+## Current Focus
 
-Business platform with a normalized database architecture supporting product variants, categories, and scalable catalog management.
-
-**Tech**
-
-`Laravel` `PHP` `MySQL`
-
-**Repository**
-
-➡️ https://github.com/mfaizanx7/perfect-doors-cms
+- Strengthening foundations in machine learning and deep learning
+- Exploring LLM architectures, reasoning and generalization
+- Developing AI agents and multi-agent workflows
+- Improving model evaluation and experimentation practices
+- Integrating AI capabilities into production-oriented software
+- Expanding practical research and engineering experience
 
 ---
 
-## 📈 PomPak Financial Literacy Platform
+## Engineering Approach
 
-Backend development support for a national financial literacy platform using Laravel and SQL Server.
+I approach intelligent software development as a combination of **model quality, system design, and practical usability**.
 
-**Tech**
+My priorities include:
 
-`Laravel` `PHP` `SQL Server`
-
-**Repository**
-
-➡️ https://github.com/mfaizanx7/pompak-showcase
----
-
-# 🎯 Current Focus
-
-I'm currently focused on strengthening my software engineering skills by building production-ready web applications and improving my expertise in backend architecture, scalable database design, and modern development workflows.
-
-Current areas of focus include:
-
-- 🚀 Building scalable Laravel & Node.js applications
-- 🔗 Designing secure REST APIs
-- 🗄️ Database modeling & query optimization
-- 🏗️ Custom CMS & business management platforms
-- 🐳 Docker-based development workflows
-- ⚙️ Production deployments & server configuration
-- 📚 Continuous learning through real-world client projects
+- Understanding the problem before selecting a model
+- Building reproducible machine learning workflows
+- Evaluating models beyond accuracy alone
+- Designing maintainable APIs and modular architectures
+- Connecting AI capabilities with reliable application interfaces
+- Continuously improving through experimentation and implementation
 
 ---
 
-# 📂 Repository Highlights
+## Connect
 
-These repositories demonstrate different aspects of my engineering experience.
-
-| Repository | Primary Focus |
-|------------|---------------|
-| 🌐 Creative IT Park | Production Deployment • React Migration • Custom CMS |
-| 🏆 OD Sports | Editorial CMS • Media Management • Existing Codebase |
-| 🚪 Perfect Doors | Database Design • Product Variants • Business Platform |
-| 📈 PomPak | Enterprise Development • SQL Server • Production Support |
-| 📊 Reachfy | Business Management • Client Operations |
-| 🏢 Thrive Enterprise Portal | RBAC • Enterprise Workflow • Administration |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-x7/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mfaizanx10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://faizans-portfolio.vercel.app)
 
 ---
 
-# 💡 Engineering Philosophy
-
-I enjoy solving practical business problems through software.
-
-My approach to development focuses on:
-
-- Writing clean, maintainable code
-- Designing scalable database structures
-- Following framework conventions
-- Building reusable components
-- Delivering production-ready solutions
-- Continuously improving through real-world development
-
----
-
-# 📫 Let's Connect
-
-<p align="left">
-
-<a href="mailto:mfaizanx10@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-faizan-khan-x7/">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faizan_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://faizans-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mfaizanx7">
-<img src="https://img.shields.io/badge/GitHub-mfaizanx7-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💼 Open to Opportunities
-
-I am currently open to opportunities in:
-
-- Software Engineering
-- Full-Stack Web Development
-- Backend Development
-- Laravel Development
-- PHP Development
-
-
-If you're working on an interesting product or looking for someone who enjoys building reliable, production-ready web applications, I'd be happy to connect.
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-*"Building software that is clean, maintainable, and ready for production."*
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
+*Building intelligent software systems through AI, machine learning, and modern software engineering.*
